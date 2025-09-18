@@ -1,14 +1,18 @@
 1. Class and Objects (examples)
+
 2. Class has data/attributes and functions/methods
     > Code walkthrough
     attributes get called itself, methods are called manually
+
 3. Why is Python called OOPS
     >everything in python is an object
+
 4. Advantages of OOPS
     >you can create your own datatype
     >code reusability
     >debugging
     >easy to collab
+
 5. End to End project
     >function vs methods
     >magic method / dunder method
@@ -17,3 +21,14 @@
     >encapsulation
     >getter and setter
     >static methods
+
+6. Inheritance
+    >Why do we need it - code reusability, non private attributes/methods
+    >constructor/method overloading
+    >super keyword
+
+    >Inheritance types
+        >Single - inherits parent attributes/methods
+        >Multiple - inherits multiple parents
+        >Hierarchial - multiple children inherit single parent
+        >diamond - uses super() to inherit methods
