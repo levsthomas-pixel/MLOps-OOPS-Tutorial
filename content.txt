@@ -9,3 +9,11 @@
     >code reusability
     >debugging
     >easy to collab
+5. End to End project
+    >function vs methods
+    >magic method / dunder method
+    >self
+    >you can attribute outside of class as well
+    >encapsulation
+    >getter and setter
+    >static methods

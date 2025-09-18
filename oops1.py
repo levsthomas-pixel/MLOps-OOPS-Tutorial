@@ -9,16 +9,23 @@ class employee:
         self.designation = "SDE"
         print("attributes/data have been initiated")
 
-    def travel(self, destination):
-        print(f"Employee is now travelling to {destination}")
+    def travel(self):
+        print(f"Employee is now travelling to Delhi")
 
 # create an instance/object of the class
 sam = employee()
+print(id(sam))
+sam.name="Sam Kumar"
+print(sam.name)
+
+# shaktiman=employee()
+
+# print(id(shaktiman))
 
 #printing the atrributes
 #print(sam.id)
 
 #calling a method
-#sam.travel("Kolkata")
+# sam.travel()
 
-print(type(sam))
+# print(type(sam))
